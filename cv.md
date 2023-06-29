@@ -3,7 +3,8 @@
 ### Contact information:
 + **E-mail:** *elenalis0139@gmail.com*
 + **Telegram:** *@EllenLis*
-+ [LinkedIn](адрес "https://www.linkedin.com/in/elena-lysenskaia/")
++ [LinkedIn](https://www.linkedin.com/in/elena-lysenskaia/)
+
 ### About Myself:
 I'm a young and ambitious individual with a great passion for development and a strong desire to succeed in the field of Frontend development. My goal is to master the core technologies and frameworks of Frontend in order to become a highly skilled professional in this field.
 
@@ -26,6 +27,7 @@ Thank you for considering my profile. I'm confident that with my enthusiasm and 
 * GitHub
 * Swift UI
 * UIKit
+
 ### Code Examples:
 Leetcode task:
 > Given an integer x, return true if x is a palindrome, and false otherwise.
@@ -37,7 +39,7 @@ class Solution {
 }
 ```
 
-[My solution](адрес "https://leetcode.com/problems/palindrome-number/solutions/2846066/swift-solution/"):
+[My solution](https://leetcode.com/problems/palindrome-number/solutions/2846066/swift-solution/):
 
 ```
 class Solution {
@@ -57,7 +59,7 @@ class Solution {
 + Kazan Federal University, Kazan University, KFU
   - Accounting, analysis and audit
 + Educational projects in Netology
-  - [Course iOS developer](адрес "https://netology.ru/programs/ios-developer")
+  - [Course iOS developer](https://netology.ru/programs/ios-developer)
 + RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
 
 ### Languages:
