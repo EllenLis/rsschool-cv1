@@ -54,10 +54,10 @@ class Solution {
 }
 ```
 ### Education:
-+ Kazan (Volga region) Federal University, Kazan University, KFU
++ Kazan Federal University, Kazan University, KFU
   - Accounting, analysis and audit
 + Educational projects in Netology
-  - Course iOS developer
+  - [Course iOS developer](адрес "https://netology.ru/programs/ios-developer")
 + RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
 
 ### Languages:
