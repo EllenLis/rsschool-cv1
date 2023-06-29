@@ -31,13 +31,6 @@ Thank you for considering my profile. I'm confident that with my enthusiasm and 
 ### Code Examples:
 Leetcode task:
 > Given an integer x, return true if x is a palindrome, and false otherwise.
-```
-class Solution {
-    func isPalindrome(_ x: Int) -> Bool {
-        
-    }
-}
-```
 
 [My solution](https://leetcode.com/problems/palindrome-number/solutions/2846066/swift-solution/):
 
