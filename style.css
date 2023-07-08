@@ -1,0 +1,156 @@
+.header {
+    background-color: #1f8b4f;
+    padding: 20px;  
+}
+
+header a {
+    text-decoration: none;
+  }
+  
+header a:hover {
+    text-decoration: underline;
+    color: orangered;
+    transition: color 0.5s;
+  }
+
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+
+  * {
+    box-sizing: border-box;
+  }
+
+  .container {
+    max-width: 1440px;
+    margin: 0 auto;
+  }
+
+  .nav-list {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    list-style: none;
+  }
+
+  html {
+    scroll-behavior: smooth; 
+  }
+
+  .nav-link {
+    position: relative;
+    padding: 0 20px;
+    line-height: 50px;
+    font-size: 20px;
+    text-decoration: none;
+    color: orange;
+    transition: .3s;
+  }
+
+  .section-image {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    display: block;
+    margin: 0 0 0 25px;
+    transition: .3s;
+  }
+
+  .section-title {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;  
+    font-size: 24px;
+    font-weight: 400;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    text-align: center;
+    color: #006400;
+  }
+
+  .section-subtitle {
+    font-size: 18px;
+    font-weight: 250;
+    text-align: center;
+    color: #006400;
+  }
+
+  .profile-section {
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    padding: 50px 30px 35px;
+    border-bottom: 1px solid orange;
+  }
+
+  .main-container {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .section {
+    padding: 10px;
+    padding-bottom: 35px; 
+    width: 50%;
+    line-height: 24px;
+    border-bottom: 1px solid orange;
+  }
+
+  @media (max-width: 768px) {
+    .section {
+      width: 100%;
+    }
+  }
+
+  .section-item {
+    position: relative;
+    line-height: 36px;
+    font-size: 20px;
+    color: black;
+  }
+
+  .section-item-link {
+    position: relative;
+    line-height: 36px;
+    font-size: 20px;
+    list-style: none;
+    text-decoration: none;
+    font-style: oblique;
+    color: black;
+  }
+
+  .pre {
+    padding: 0;
+    margin: 0;
+  }
+  
+
+  .section-list {
+    position: relative;
+    font-style: oblique;
+    color: black;
+    list-style: none;
+  }
+
+  .footer {
+    background-color: #1f8b4f;
+    padding: 20px;
+  }
+
+  .footer-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 auto;
+    color: #fff;
+  }
+  
+  .section-image-logo {
+    width: 150px;
+    height: 50px;
+  }
+
+ 
